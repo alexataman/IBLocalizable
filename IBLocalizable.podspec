@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.author             = { "Chris Jimenez" => "cjimenez16@gmail.com" }
   s.social_media_url   = "http://twitter.com/chrisjimeneznat"
 
-  s.platform     = :ios, "10.0"
+  s.platform     = :ios, "9.0"
 
   s.source       = { :git => "https://github.com/PiXeL16/IBLocalizable.git", :tag => s.version }
   s.source_files  = "IBLocalizable/", "IBLocalizable/**/*.{h,m,swift}"
